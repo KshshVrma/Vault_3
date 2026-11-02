@@ -11,10 +11,14 @@
             "id": "53d5c4b71cc9d6d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian_/interviews/list.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "list"
             }
           }
         ]
