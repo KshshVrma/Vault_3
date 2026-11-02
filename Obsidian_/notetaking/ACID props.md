@@ -1,4 +1,4 @@
-
+postgres
 
 these are 4 database properties , all being followed in an ideal case however tradeoffs do exist, and based on the situation of the task more weightage should be given to the property.
 

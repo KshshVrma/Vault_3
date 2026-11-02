@@ -11,10 +11,14 @@
             "id": "95465a605e245733",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian_/notetaking/CI-CD.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "CI-CD"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Obsidian_/notetaking/ACID props.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Obsidian_/notetaking/ACID props.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Obsidian_/notetaking/ACID props.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -182,8 +189,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "26646ee719320585",
+  "active": "95465a605e245733",
   "lastOpenFiles": [
+    "Obsidian_/books/aptitrick.pdf",
+    "Obsidian_/notetaking/ACID props.md",
     "README.md",
     "Obsidian_/books/Good to Great -- Jim Collins -- 1st, 2001 -- HarperCollins US -- 054916f24b224a4ad101a83a37d260ab -- Anna’s Archive.pdf"
   ]
