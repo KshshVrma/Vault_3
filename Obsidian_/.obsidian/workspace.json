@@ -1,0 +1,336 @@
+{
+  "main": {
+    "id": "4a3d082690f9a8d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "3916b1899de800e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3b1a41b69a73dc3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "books/System Design Interview - An Insider's Guide, Second Edition -- Alex Xu, Sahn Lam -- 2, 2020 -- Independently published -- 9788664653404 -- 30e4ea689fd525784e765ddaedab0491 -- Anna’s Archive.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "System Design Interview - An Insider's Guide, Second Edition -- Alex Xu, Sahn Lam -- 2, 2020 -- Independently published -- 9788664653404 -- 30e4ea689fd525784e765ddaedab0491 -- Anna’s Archive"
+            }
+          },
+          {
+            "id": "b80047fac4a4f0bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SDE/dsa/Prefix sum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prefix sum"
+            }
+          },
+          {
+            "id": "62409b6c2492b1dd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "books/Trillion Dollar Coach_ The Leadership Playbook of Silicon -- Eric Schmidt -- 2019 -- HarperCollins -- 8c68a7b6ab0e1aa6371670433ac66838 -- Anna’s Archive.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Trillion Dollar Coach_ The Leadership Playbook of Silicon -- Eric Schmidt -- 2019 -- HarperCollins -- 8c68a7b6ab0e1aa6371670433ac66838 -- Anna’s Archive"
+            }
+          },
+          {
+            "id": "de70260bed1f6d87",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "books/System Design Interview – An Insider's Guide_ Volume 2 -- Alex Xu, Sahn Lam -- Mar 11, 2022 -- Byte Code LLC -- 9781736049112 -- ac45d5cf1eb1c16011606abe2a22c27c -- Anna’s Archive.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "System Design Interview – An Insider's Guide_ Volume 2 -- Alex Xu, Sahn Lam -- Mar 11, 2022 -- Byte Code LLC -- 9781736049112 -- ac45d5cf1eb1c16011606abe2a22c27c -- Anna’s Archive"
+            }
+          },
+          {
+            "id": "33f6fac2a5d23198",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "books/System Design Interview – An Insider's Guide_ Volume 2 -- Alex Xu, Sahn Lam -- Mar 11, 2022 -- Byte Code LLC -- 9781736049112 -- ac45d5cf1eb1c16011606abe2a22c27c -- Anna’s Archive.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "System Design Interview – An Insider's Guide_ Volume 2 -- Alex Xu, Sahn Lam -- Mar 11, 2022 -- Byte Code LLC -- 9781736049112 -- ac45d5cf1eb1c16011606abe2a22c27c -- Anna’s Archive"
+            }
+          },
+          {
+            "id": "a062b2f6ff3330bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SDE/dsa/BFS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BFS"
+            }
+          },
+          {
+            "id": "2ba77c87d033f01f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "books/Ask and It Is Given_ Learning to Manifest Your Desires (Law -- Abraham (Spirit), Esther Hicks, Jerry Hicks -- Penguin Random House LLC (Publisher -- 9781401904593 -- 0c916625bf4cbb69bd610ea0ff2156cc -- Anna’s Archi.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Ask and It Is Given_ Learning to Manifest Your Desires (Law -- Abraham (Spirit), Esther Hicks, Jerry Hicks -- Penguin Random House LLC (Publisher -- 9781401904593 -- 0c916625bf4cbb69bd610ea0ff2156cc -- Anna’s Archi"
+            }
+          },
+          {
+            "id": "ce2a96898ff37e3a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "books/Designing Data-Intensive Applications _ The Big Ideas Behind -- Martin Kleppmann -- 6 [early release], 2017 -- O'Reilly Media, Incorporated -- 9781449373320 -- a4d0064a0249c0bf3db7b39349ddaf21 -- Anna’s Archive.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Designing Data-Intensive Applications _ The Big Ideas Behind -- Martin Kleppmann -- 6 [early release], 2017 -- O'Reilly Media, Incorporated -- 9781449373320 -- a4d0064a0249c0bf3db7b39349ddaf21 -- Anna’s Archive"
+            }
+          },
+          {
+            "id": "fc3b5eb0d9054bcd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "books/Beyond Good and Evil -- Nietzsche Friedrich -- guttenberg -- d20d4f8c9ca1d270beadac7cafcb3599 -- Anna’s Archive.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Beyond Good and Evil -- Nietzsche Friedrich -- guttenberg -- d20d4f8c9ca1d270beadac7cafcb3599 -- Anna’s Archive"
+            }
+          },
+          {
+            "id": "50b4e55bd33addc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SDE/dsa/TIPS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TIPS"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51670d25e2d661be",
+    "type": "split",
+    "children": [
+      {
+        "id": "78e387f3f08a43fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f39dc65a5663ecdb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2fa7038b8e2bb629",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1815b716ae35127a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "72280cde997c8603",
+    "type": "split",
+    "children": [
+      {
+        "id": "59da799a0691c9db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "582717ee3e93e8b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "books/Beyond Good and Evil -- Nietzsche Friedrich -- guttenberg -- d20d4f8c9ca1d270beadac7cafcb3599 -- Anna’s Archive.pdf",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Beyond Good and Evil -- Nietzsche Friedrich -- guttenberg -- d20d4f8c9ca1d270beadac7cafcb3599 -- Anna’s Archive"
+            }
+          },
+          {
+            "id": "66688aaf51cd186c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "8e2cc21e99aa1421",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "43aca4721db5354e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 407.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "github-sync:Sync with Remote": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "tldraw:Create new tldrawing": false
+    }
+  },
+  "active": "33f6fac2a5d23198",
+  "lastOpenFiles": [
+    "books/System Design Interview - An Insider's Guide, Second Edition -- Alex Xu, Sahn Lam -- 2, 2020 -- Independently published -- 9788664653404 -- 30e4ea689fd525784e765ddaedab0491 -- Anna’s Archive.pdf",
+    "SDE/dsa/Prefix sum.md",
+    "books/System Design Interview – An Insider's Guide_ Volume 2 -- Alex Xu, Sahn Lam -- Mar 11, 2022 -- Byte Code LLC -- 9781736049112 -- ac45d5cf1eb1c16011606abe2a22c27c -- Anna’s Archive.pdf",
+    "books/Trillion Dollar Coach_ The Leadership Playbook of Silicon -- Eric Schmidt -- 2019 -- HarperCollins -- 8c68a7b6ab0e1aa6371670433ac66838 -- Anna’s Archive.pdf",
+    "SDE/dsa/TIPS.md",
+    "Pasted image 20260726124247.png",
+    "SDE/hld practice/Tips.md",
+    "Untitled.base",
+    "books/Designing Data-Intensive Applications _ The Big Ideas Behind -- Martin Kleppmann -- 6 [early release], 2017 -- O'Reilly Media, Incorporated -- 9781449373320 -- a4d0064a0249c0bf3db7b39349ddaf21 -- Anna’s Archive.pdf",
+    "books/Ask and It Is Given_ Learning to Manifest Your Desires (Law -- Abraham (Spirit), Esther Hicks, Jerry Hicks -- Penguin Random House LLC (Publisher -- 9781401904593 -- 0c916625bf4cbb69bd610ea0ff2156cc -- Anna’s Archi.pdf",
+    "SDE/hld practice/message queue.md",
+    "books/Beyond Good and Evil -- Nietzsche Friedrich -- guttenberg -- d20d4f8c9ca1d270beadac7cafcb3599 -- Anna’s Archive.pdf",
+    "notetaking/Tldraw 2026-01-05 8.38PM.md",
+    "books/Journey to Self-Realization - Collected Talks and Essays on -- Paramahansa Yogananda -- Collected Talks and Essays on Realizing God in daily life, -- 9780876122556 -- 5798263cbce35a9b431dd39a5c7c6b70 -- Anna’s Arch.pdf",
+    "books/_OceanofPDF.com_The_Mitochondriac_Manifesto_How_Nature_Nurtures_the_Body_and_Technology_Torments_It_-_r_d_lee.pdf",
+    "books/On The Genealogy Of Morals -- Nietzsche -- 1d5d83542fd42b89b1e267fe4f851e45 -- Anna’s Archive.pdf",
+    "dumps/feb.md",
+    "notetaking/ACID props.md",
+    "SDE/projects/roadmap.md",
+    "SDE/projects/Specsense.md",
+    "SDE/projects/Claude code.md",
+    "SDE/dsa/lc docs.md",
+    "SDE/hld practice/Kafka.md",
+    "SDE/hld practice/patterns.md",
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2026-01-05 20.36.47.excalidraw.md",
+    "SDE/lld practice/Notification service.md",
+    "Pasted image 20251214100601.png",
+    "SDE/lld practice/Snake and Ladder.md",
+    "Excalidraw/Drawing 2025-11-30 14.03.49.excalidraw.md",
+    "Pasted image 20251130142028.png",
+    "SDE/java internals/Basic Collection.md",
+    "SDE/lld practice/Logger system.md",
+    "Excalidraw/Drawing 2025-11-29 11.04.56.excalidraw.md",
+    "Pasted image 20251129120617.png",
+    "Excalidraw/Drawing 2025-11-29 11.01.59.excalidraw.md",
+    "SDE/Interview questions.md",
+    "Excalidraw/Drawing 2025-11-29 11.01.32.excalidraw.md",
+    "SDE/lld practice/design pattern.md",
+    "Welcome.md",
+    "Pasted image 20251122214929.png",
+    "Pasted image 20251011155626.png"
+  ]
+}
