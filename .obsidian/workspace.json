@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "df7a8800ece1e550",
+        "id": "1cc7a19c56d07667",
         "type": "tabs",
         "children": [
           {
-            "id": "95465a605e245733",
+            "id": "53d5c4b71cc9d6d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian_/notetaking/CI-CD.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "CI-CD"
+              "title": "New tab"
             }
           }
         ]
@@ -189,8 +185,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "95465a605e245733",
+  "active": "53d5c4b71cc9d6d5",
   "lastOpenFiles": [
+    "Obsidian_/notetaking/CI-CD.md",
     "test.txt",
     "Obsidian_/books/aptitrick.pdf",
     "Obsidian_/notetaking/ACID props.md",
