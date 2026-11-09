@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian_/interviews/list.md",
+                "file": "Obsidian_/GCP/App Load Balancer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "list"
+              "title": "App Load Balancer"
             }
           }
         ]
@@ -189,8 +189,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "53d5c4b71cc9d6d5",
+  "active": "26646ee719320585",
   "lastOpenFiles": [
+    "Obsidian_/books/The Dip_ A Little Book That Teaches You When to Quit (and -- Godin, Seth -- 2007 -- Portfolio Hardcover -- 7e00fee4c71caf5a6a7cf8b22fa41591 -- Anna’s Archive.pdf",
+    "Obsidian_/interviews/list.md",
+    "Obsidian_/GCP/App Load Balancer.md",
+    "Obsidian_/GCP",
+    "GCP",
     "Obsidian_/notetaking/CI-CD.md",
     "test.txt",
     "Obsidian_/books/aptitrick.pdf",
