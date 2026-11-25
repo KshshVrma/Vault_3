@@ -25,14 +25,26 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Obsidian_/books/Grokking the System Design Interview.pdf"
+                "file": "Obsidian_/books/The Inner Game of Tennis _ The Classic Guide to the Mental -- Gallwey, W_ Timothy -- Subsequent, ZA, 1997 -- Random House Publishing Group -- isbn13 9780307758859 -- 3b87616c49eece8c5da11211b422dfcd -- Anna’s Archi.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Grokking the System Design Interview"
+              "title": "The Inner Game of Tennis _ The Classic Guide to the Mental -- Gallwey, W_ Timothy -- Subsequent, ZA, 1997 -- Random House Publishing Group -- isbn13 9780307758859 -- 3b87616c49eece8c5da11211b422dfcd -- Anna’s Archi"
+            }
+          },
+          {
+            "id": "9ecc13d1d829e19f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Obsidian_/GCP/[All Recaps] Google Cloud - Professional Cloud Architect - For Sharing.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "[All Recaps] Google Cloud - Professional Cloud Architect - For Sharing"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 420.27557373046875,
+    "collapsed": true
   },
   "right": {
     "id": "ecdc29910be3e000",
@@ -200,15 +213,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d09ec1c432f293b2",
+  "active": "9ecc13d1d829e19f",
   "lastOpenFiles": [
     "Obsidian_/books/The Inner Game of Tennis _ The Classic Guide to the Mental -- Gallwey, W_ Timothy -- Subsequent, ZA, 1997 -- Random House Publishing Group -- isbn13 9780307758859 -- 3b87616c49eece8c5da11211b422dfcd -- Anna’s Archi.pdf",
+    "Obsidian_/books/Grokking the System Design Interview.pdf",
     "Obsidian_/books/how-not-to-die-alone-9781982120627-9781982120641_compress.pdf",
     "Obsidian_/GCP/[All Recaps] Google Cloud - Professional Cloud Architect - For Sharing.pdf",
     "Obsidian_/GCP/Notes.md",
     "Obsidian_/books/kabir.pdf",
     "Obsidian_/books/Elon Musk -- Walter Isaacson -- -, -, -, 2023 -- Simon & Schuster -- e96e6a480afeb0b4878da1b572d12817 -- Anna’s Archive.pdf",
-    "Obsidian_/books/Grokking the System Design Interview.pdf",
     "Obsidian_/GCP/App Load Balancer.md",
     "Obsidian_/books/The Dip_ A Little Book That Teaches You When to Quit (and -- Godin, Seth -- 2007 -- Portfolio Hardcover -- 7e00fee4c71caf5a6a7cf8b22fa41591 -- Anna’s Archive.pdf",
     "Obsidian_/interviews/list.md",
